@@ -1,0 +1,8 @@
+
+body { font-family: Arial, sans-serif; background: #f6f7fb; color: #222; text-align:center; }
+h1 { background: linear-gradient(90deg,#4b6cb7,#182848); color: #fff; padding: 18px; border-radius: 8px; display:inline-block; margin-top:20px; }
+.video-wrap { margin: 20px auto; width: 640px; height: 480px; border-radius:8px; overflow:hidden; box-shadow: 0 6px 18px rgba(0,0,0,0.12); }
+.video-wrap img { width:100%; height:auto; display:block; }
+.controls{ margin-top: 12px }
+button { padding: 10px 16px; border-radius:6px; border:none; background:#4b6cb7; color:white; cursor:pointer }
+

@@ -1,0 +1,4 @@
+train: ./data/dataset/images/train
+val: ./data/dataset/images/val
+nc: 7
+names: ["person", "hardhat", "safty-vest", "mask", "non-hardhat","non-safty-vest","non-mask"]

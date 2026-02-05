@@ -1,11 +1,7 @@
 # PPE Detection Module Requirements
-pip<24
-setuptools<70
-wheel
-
 fastapi
 uvicorn
- flask==2.3.3
+flask==2.3.3
 opencv-python==4.8.1.78
 ultralytics==8.0.196
 numpy==1.24.3

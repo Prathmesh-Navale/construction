@@ -1,7 +1,8 @@
 # PPE Detection Module Requirements
-pip
-setuptools
+pip<24
+setuptools<70
 wheel
+
 fastapi
 uvicorn
  flask==2.3.3

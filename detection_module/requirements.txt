@@ -1,4 +1,5 @@
 # PPE Detection Module Requirements
+pip
 setuptools
 wheel
 fastapi
